@@ -210,4 +210,5 @@ xxhash==3.4.1
 yarl==1.9.4
 yfinance==0.2.41
 yfinance
+streamlit==1.24.0
 
