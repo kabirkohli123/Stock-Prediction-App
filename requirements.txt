@@ -51,7 +51,7 @@ gast==0.6.0
 google-api-core==2.8.2
 google-auth==2.29.0
 google-cloud-aiplatform==1.46.0
-google-cloud-bigquery==3.34.0
+google-cloud-bigquery==3.24.0
 google-cloud-core==2.4.1
 google-cloud-resource-manager==1.6.1
 google-cloud-storage==2.14.0
