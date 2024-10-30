@@ -211,4 +211,5 @@ yarl==1.9.4
 yfinance==0.2.41
 yfinance
 streamlit==1.24.0
+gunicorn
 
